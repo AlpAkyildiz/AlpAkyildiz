@@ -1,4 +1,4 @@
--👋 Hi, I’m @AlpAkyildiz. I am a 3rd-year Computer Engineering student at ISUBU Faculty of Technology. I am actively developing my skills in software engineering and modern software development practices.
+-👋 Hi, I’m @AlpAkyildiz. I am a 3rd-year Computer Engineering student at Applied Sciences University of Isparta, Faculty of Technology. I am actively developing my skills in software engineering and modern software development practices.
 
 -💻 I have experience in .NET and C# development, along with academic and project-based work in software systems.
 
